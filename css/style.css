@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(194, 100, 116); 
+  font-family: sans-serif; 
+}
+img{
+ width: 350px; 
+}
+h1{
+ color: #fff;
+}
+ul li a{
+  text-decoration: none;
+  line-height: 15px;
+  letter-spacing: 1px;
+  color: indigo;
+  font-weight: 700;
+  font-size: 15px;
+}
+ul li {
+  list-style: none;
+  line-height: 30px;
+
+}
+h2, h4 {
+  color: rgb(65, 2, 59);
+  line-height: 30px;
+  letter-spacing: 1px;
+}
+ol li{
+  line-height: 30px;
+}
